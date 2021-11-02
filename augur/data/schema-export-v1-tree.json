@@ -1,6 +1,7 @@
 {
-    "type" : "object",
     "$schema": "http://json-schema.org/draft-06/schema#",
+    "$id": "https://nextstrain.org/schemas/augur-export-v1-output-tree.json",
+    "type": "object",
     "title": "Nextstrain tree JSON schema",
     "additionalProperties": false,
     "required": ["attr", "strain"],
